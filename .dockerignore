@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.venv
+env/
+.env
+
+# Docker
+Dockerfile
+
+# Caches and local data
+cache_fast/
+*.pdf
+*.json
+
+# Git
+.git/
+.gitignore
+
+# OS
+.DS_Store
+Thumbs.db
